@@ -8,6 +8,13 @@ This Flask-based RESTful API integrates OpenAI's assistant with MongoDB to manag
 - MongoDB integration to manage multiple users, threads, and conversation history
 - Thread management for each user interaction
 -  The assistant provides responses in JSON format, following a predefined schema, making it easy to integrate with other systems and applications.
+ ## Getting Started
+
+To get started with this project, follow the steps below:
+- **Clone the Repository:**
+   ```bash
+   git clone https://github.com/akshxyjagtap/MultiThreadAI-Openai-Assitant-Api-with-Mongodb-integration-.git
+   cd MultiThreadAI-Openai-Assitant-Api-with-Mongodb-integration-
 ##  Files Included
 #### 1. `app.py`
 
