@@ -50,14 +50,14 @@ def create_assistant(
 
     return my_assistant
 
-
+# sample schema
 json_schema = {
     "header": "header or title of response ",
     "explanation": "An detailed explanation of the topic.",
     "example": "An example  related to the topic. with syntax",
 }
 
-
+# sample instructions
 inst = f"You are a helpfull  bot . consider the document as knowledge base and answer user querries . your output should be in json schema :{json_schema}"
 assistant_name = "Akshay's Assistant"
 uploaded_file = file_to_upload
