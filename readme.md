@@ -14,7 +14,7 @@ To get started with this project, follow the steps below:
 - **Clone the Repository:**
    ```bash
    git clone https://github.com/akshxyjagtap/MultiThreadAI-Openai-Assitant-Api-with-Mongodb-integration-.git
-   
+
 ##  Files Included
 #### 1. `app.py`
 
