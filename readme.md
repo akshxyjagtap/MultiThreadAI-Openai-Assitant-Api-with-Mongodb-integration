@@ -1,3 +1,4 @@
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 # Flask-based OpenAI Assistant Api with MongoDB Integration
 
 This Flask-based RESTful API integrates OpenAI's assistant with MongoDB to manage multiple user sessions and threads. The assistant interacts with users, storing conversation threads in a MongoDB database.
