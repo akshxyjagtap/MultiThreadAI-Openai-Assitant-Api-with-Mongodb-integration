@@ -1,4 +1,4 @@
-# Flask-based OpenAI Assistant with MongoDB Integration
+# Flask-based OpenAI Assistant Api with MongoDB Integration
 
 This Flask-based RESTful API integrates OpenAI's assistant with MongoDB to manage multiple user sessions and threads. The assistant interacts with users, storing conversation threads in a MongoDB database.
 
