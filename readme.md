@@ -14,7 +14,7 @@ This Flask-based RESTful API integrates OpenAI's assistant with MongoDB to manag
 To get started with this project, follow the steps below:
 - **Clone the Repository:**
    ```bash
-   git clone https://github.com/akshxyjagtap/MultiThreadAI-Openai-Assitant-Api-with-Mongodb-integration-.git
+   git clone https://github.com/akshxyjagtap/MultiThreadAI-Openai-Assitant-Api-with-Mongodb-integration.git
 
 ##  Files Included
 #### 1. `app.py`
